@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UniKL Space</string>
+    <string name="msg">Please enable all permission</string>
+    <string name="day_select">Day:</string>
+
+</resources>
